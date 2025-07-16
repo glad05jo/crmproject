@@ -12,8 +12,7 @@ import Pom_Rep.ProductLookUpPage;
 import Pom_Rep.ValidateCampPage;
 
 
-//im pulling 
-//pushback
+//Push 1
 public class CreateProductTest extends BaseClass {
 	@Test
 	public void CreateProduct() throws Throwable
